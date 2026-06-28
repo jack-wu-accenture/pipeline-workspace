@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "0440c1b61a324002",
+    "type": "split",
+    "children": [
+      {
+        "id": "925fff2c276cb2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89201953443123e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio/insights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "insights"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d78db7d87f6822ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "dca13b1ef93feecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef09d6398db6882c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "909371bc3b73e6e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5c7e8bb276dc1b12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "1928d29cd53bbd27",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1280067a53f6f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dadadb1309af9b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe67091b44e0a544",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "982c5604d65cefd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "d91be7b531262559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3bbee872a55742e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "963d9045a5b9a495",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "notebook-navigator:笔记本导航器": false
+    }
+  },
+  "active": "1928d29cd53bbd27",
+  "lastOpenFiles": [
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/output/reasoning",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/output/proposal",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/solution",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/decisions",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/_graph",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/rfp",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/references",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/notes",
+    "README.md",
+    "templates/okf_node.md"
+  ]
+}
