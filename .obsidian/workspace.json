@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio/insights.md",
+                "file": "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "insights"
+              "title": "ACT-001"
             }
           }
         ]
@@ -197,18 +197,41 @@
   },
   "active": "1928d29cd53bbd27",
   "lastOpenFiles": [
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/output/proposal/solution-wip.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/_graph/edges.json",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/_graph/nodes.json",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-011.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-010.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-009.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-008.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/decisions/DEC-004.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-013.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-012.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-011.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-010.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-009.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements/REQ-008.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-014.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-013.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-012.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-011.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-010.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx",
+    "scripts/oss_config.sample.json",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-006.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-007.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-005.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-004.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-003.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-002.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions/ACT-001.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-007.md",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context/CTX-008.md",
+    "scripts/oss_config.json",
+    "scripts/oss_config.example.json",
+    "scripts/oss_sync.py",
     "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/output/reasoning",
     "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/output/proposal",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/solution",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/decisions",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/_graph",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/rfp",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/references",
-    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/input/notes",
-    "README.md",
-    "templates/okf_node.md"
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/solution"
   ]
 }

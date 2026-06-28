@@ -1,0 +1,177 @@
+[
+  {
+    "from": "CTX-001",
+    "to": "requirements/REQ-001",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-001",
+    "to": "decisions/DEC-001",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-002",
+    "to": "requirements/REQ-002",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-003",
+    "to": "requirements/REQ-003",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-003",
+    "to": "actions/ACT-001",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-004",
+    "to": "requirements/REQ-004",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-004",
+    "to": "decisions/DEC-002",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-005",
+    "to": "decisions/DEC-003",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-006",
+    "to": "requirements/REQ-005",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-006",
+    "to": "actions/ACT-005",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-007",
+    "to": "requirements/REQ-006",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-007",
+    "to": "actions/ACT-006",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-008",
+    "to": "requirements/REQ-007",
+    "relation": "impacts"
+  },
+  {
+    "from": "CTX-009",
+    "to": "requirements/REQ-005",
+    "relation": "impacts"
+  },
+  {
+    "from": "REQ-001",
+    "to": "context/CTX-003",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-002",
+    "to": "context/CTX-002",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-003",
+    "to": "context/CTX-004",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-004",
+    "to": "context/CTX-001",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-005",
+    "to": "context/CTX-006",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-005",
+    "to": "context/CTX-009",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-006",
+    "to": "context/CTX-007",
+    "relation": "derives_from"
+  },
+  {
+    "from": "REQ-007",
+    "to": "context/CTX-008",
+    "relation": "derives_from"
+  },
+  {
+    "from": "DEC-001",
+    "to": "context/CTX-002",
+    "relation": "derives_from"
+  },
+  {
+    "from": "DEC-002",
+    "to": "context/CTX-004",
+    "relation": "derives_from"
+  },
+  {
+    "from": "DEC-003",
+    "to": "context/CTX-005",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-001",
+    "to": "context/CTX-003",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-001",
+    "to": "requirements/REQ-001",
+    "relation": "impacts"
+  },
+  {
+    "from": "ACT-002",
+    "to": "requirements/REQ-002",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-003",
+    "to": "requirements/REQ-003",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-004",
+    "to": "context/CTX-001",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-005",
+    "to": "requirements/REQ-005",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-005",
+    "to": "context/CTX-006",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-006",
+    "to": "requirements/REQ-006",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-006",
+    "to": "context/CTX-007",
+    "relation": "derives_from"
+  },
+  {
+    "from": "ACT-007",
+    "to": "context/CTX-008",
+    "relation": "derives_from"
+  }
+]

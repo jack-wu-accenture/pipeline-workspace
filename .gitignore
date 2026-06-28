@@ -5,3 +5,6 @@ opportunities/*/input/
 
 # Claude local settings — machine-specific, not portable
 .claude/
+
+# OSS credentials — never commit
+scripts/oss_config.json

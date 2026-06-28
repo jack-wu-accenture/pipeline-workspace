@@ -1,0 +1,422 @@
+[
+  {
+    "id": "CTX-001",
+    "type": "context",
+    "title": "EBX\u66ff\u6362\u6838\u5fc3\u51b3\u7b56\u80cc\u666f\u2014\u2014\u4e24\u6761\u4e3b\u65b9\u6848",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-001.md"
+  },
+  {
+    "id": "CTX-002",
+    "type": "context",
+    "title": "\u5f53\u524d\u9636\u6bb5\u5b9a\u4f4d\u4e3aPlanning\uff0c\u975e\u5b9e\u65bd",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-002.md"
+  },
+  {
+    "id": "CTX-003",
+    "type": "context",
+    "title": "Global/EDM\u8bc4\u4f30\u6807\u51c6\u5c1a\u672a\u83b7\u53d6\u4e14\u7f3a\u4e4f\u80cc\u4e66",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-003.md"
+  },
+  {
+    "id": "CTX-004",
+    "type": "context",
+    "title": "EBX\u67b6\u6784\u7531\u6838\u5fc3\u5e95\u5ea7\u4e0e\u5927\u91cf\u5916\u6302\u81ea\u5f00\u53d1\u903b\u8f91\u6784\u6210",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-004.md"
+  },
+  {
+    "id": "CTX-005",
+    "type": "context",
+    "title": "AI\u53c2\u4e0e\u5b9a\u4f4d\uff1a\u8f85\u52a9\u5de5\u5177\u800c\u975e\u6838\u5fc3\u51b3\u7b56\u4f9d\u636e",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-005.md"
+  },
+  {
+    "id": "CTX-006",
+    "type": "context",
+    "title": "\u7cfb\u7edf\u590d\u6742\u5ea6\u6765\u6e90\uff1a\u5b50\u573a\u666f+\u5b9a\u5f00+\u754c\u9762+\u5e73\u53f0\u9650\u5236",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-006.md"
+  },
+  {
+    "id": "CTX-007",
+    "type": "context",
+    "title": "\u5386\u53f2\u6587\u6863\u4e0e\u4ee3\u7801\u83b7\u53d6\u56f0\u96be\uff0c\u56de\u5fc6\u4e0d\u8db3\u4ee5\u652f\u6491\u4f30\u7b97",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-007.md"
+  },
+  {
+    "id": "CTX-008",
+    "type": "context",
+    "title": "\u5ba2\u6237\u9884\u7b97\u4e0e\u65f6\u95f4\u7ebf\u7ea6\u675f",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-008.md"
+  },
+  {
+    "id": "CTX-009",
+    "type": "context",
+    "title": "\u6838\u5fc3\u4e1a\u52a1\u573a\u666f\uff1aDCR\u3001HCP/HCO\u3001Batch\u3001Merge\u3001Appeal",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/context/CTX-009.md"
+  },
+  {
+    "id": "CTX-010",
+    "type": "context",
+    "title": "RFP Issued by Novartis for China Customer MDM EBX Replacement",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/context/CTX-010.md"
+  },
+  {
+    "id": "CTX-011",
+    "type": "context",
+    "title": "Legacy EBX Platform Challenges Driving MDM Replacement",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/context/CTX-011.md"
+  },
+  {
+    "id": "CTX-012",
+    "type": "context",
+    "title": "Existing 2025 PoC and Planning Deliverables Available for Reuse",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/context/CTX-012.md"
+  },
+  {
+    "id": "CTX-013",
+    "type": "context",
+    "title": "RFP Evaluation Criteria \u2014 Supplier Selection Factors",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/context/CTX-013.md"
+  },
+  {
+    "id": "CTX-014",
+    "type": "context",
+    "title": "Go/No-Go Decision Target November\u2013December 2026",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/context/CTX-014.md"
+  },
+  {
+    "id": "REQ-001",
+    "type": "requirement",
+    "title": "\u5fc5\u987b\u5efa\u7acb\u88abGlobal/EDM\u8ba4\u53ef\u7684\u65b9\u6848\u8bc4\u4f30\u6807\u51c6",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-001.md"
+  },
+  {
+    "id": "REQ-002",
+    "type": "requirement",
+    "title": "\u8f93\u51fa\u7ed3\u6784\u5316\u65b9\u6848\u8bc4\u4f30\u6846\u67b6\u6587\u6863",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-002.md"
+  },
+  {
+    "id": "REQ-003",
+    "type": "requirement",
+    "title": "\u62c6\u89e3\u73b0\u6709EBX\u67b6\u6784\u8fb9\u754c\u4e0e\u66ff\u6362\u8303\u56f4",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-003.md"
+  },
+  {
+    "id": "REQ-004",
+    "type": "requirement",
+    "title": "\u5e76\u884c\u51c6\u5907\u4e24\u7c7b\u65b9\u6848\uff1a\u91cd\u505a\u8def\u7ebf\u4e0e\u4fdd\u7559EBX\u8def\u7ebf",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-004.md"
+  },
+  {
+    "id": "REQ-005",
+    "type": "requirement",
+    "title": "\u5c06\u7cfb\u7edf\u590d\u6742\u5ea6\u8bc1\u636e\u5316\u5e76\u5411\u5ba2\u6237\u5c55\u793a",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-005.md"
+  },
+  {
+    "id": "REQ-006",
+    "type": "requirement",
+    "title": "\u83b7\u53d6\u5386\u53f2\u9879\u76ee\u6587\u6863\u4e0e\u4ee3\u7801\u7528\u4e8e\u590d\u6742\u5ea6\u9a8c\u8bc1",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-006.md"
+  },
+  {
+    "id": "REQ-007",
+    "type": "requirement",
+    "title": "Planning\u4ea4\u4ed8\u7269\u9700\u56de\u7b54\u4e94\u4e2a\u6838\u5fc3\u51b3\u7b56\u95ee\u9898",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/requirements/REQ-007.md"
+  },
+  {
+    "id": "REQ-008",
+    "type": "requirement",
+    "title": "Workstream A \u2014 Reuse Existing Deliverables and Baseline Assessment",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-008.md"
+  },
+  {
+    "id": "REQ-009",
+    "type": "requirement",
+    "title": "Workstream B \u2014 EDM / Data Governance Impact Assessment",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-009.md"
+  },
+  {
+    "id": "REQ-010",
+    "type": "requirement",
+    "title": "Workstream C \u2014 Local / Hybrid Solution Evaluation",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-010.md"
+  },
+  {
+    "id": "REQ-011",
+    "type": "requirement",
+    "title": "Workstream D \u2014 AWS-Native Architecture Design (Custom Solution)",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-011.md"
+  },
+  {
+    "id": "REQ-012",
+    "type": "requirement",
+    "title": "Workstream E \u2014 Minimal PoC Validation and Functional Design",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-012.md"
+  },
+  {
+    "id": "REQ-013",
+    "type": "requirement",
+    "title": "Environmental Sustainability (ES) Compliance Requirements",
+    "status": "active",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/requirements/REQ-013.md"
+  },
+  {
+    "id": "DEC-001",
+    "type": "decision",
+    "title": "\u5f53\u524d\u4e0d\u8fdb\u884c\u6280\u672f\u65b9\u6848\u9009\u578b\uff0c\u5148\u505aPlanning\u9a8c\u8bc1",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/decisions/DEC-001.md"
+  },
+  {
+    "id": "DEC-002",
+    "type": "decision",
+    "title": "\u4f18\u5148\u8bc4\u4f30\u73b0\u6709\u5e73\u53f0\u627f\u63a5\u800c\u975e\u76f4\u63a5\u624b\u6413",
+    "status": "draft",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/decisions/DEC-002.md"
+  },
+  {
+    "id": "DEC-003",
+    "type": "decision",
+    "title": "AI\u5b9a\u4f4d\u4e3a\u8f85\u52a9\u5de5\u5177\uff0c\u4e0d\u4f5c\u4e3a\u6838\u5fc3\u5b9e\u65bd\u8def\u7ebf",
+    "status": "confirmed",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/decisions/DEC-003.md"
+  },
+  {
+    "id": "DEC-004",
+    "type": "decision",
+    "title": "Solution Path Selection \u2014 Local/Hybrid vs AWS-Native Custom",
+    "status": "pending",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/decisions/DEC-004.md"
+  },
+  {
+    "id": "ACT-001",
+    "type": "action",
+    "title": "\u83b7\u53d6Global/EDM\u6b63\u5f0f\u8bc4\u4f30Criteria\u5e76\u786e\u8ba4\u80cc\u4e66\u4eba",
+    "status": "draft",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-001.md"
+  },
+  {
+    "id": "ACT-002",
+    "type": "action",
+    "title": "\u8f93\u51faEBX\u80fd\u529b\u6846\u67b6\u8bc4\u4f30\u6587\u6863",
+    "status": "draft",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-002.md"
+  },
+  {
+    "id": "ACT-003",
+    "type": "action",
+    "title": "\u62c6\u89e3\u73b0\u6709EBX\u6280\u672f\u67b6\u6784\u8fb9\u754c",
+    "status": "draft",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-003.md"
+  },
+  {
+    "id": "ACT-004",
+    "type": "action",
+    "title": "\u6c47\u603b\u5386\u53f2\u6280\u672f\u8bc4\u4f30\u8d44\u6599",
+    "status": "draft",
+    "source": [
+      "input/meetings/EBX\u66ff\u6362\u4e0eMDM\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-004.md"
+  },
+  {
+    "id": "ACT-005",
+    "type": "action",
+    "title": "\u6574\u7406\u590d\u6742\u5ea6\u8bc1\u636e\u5e76\u5f62\u6210\u5ba2\u6237\u53ef\u5c55\u793a\u6750\u6599",
+    "status": "draft",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-005.md"
+  },
+  {
+    "id": "ACT-006",
+    "type": "action",
+    "title": "\u5c3d\u5feb\u83b7\u53d6\u5386\u53f2\u9879\u76ee\u6587\u6863\u53ca\u4ee3\u7801",
+    "status": "draft",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-006.md"
+  },
+  {
+    "id": "ACT-007",
+    "type": "action",
+    "title": "\u5468\u56db\u4e0e\u5ba2\u6237\u521d\u6b65\u6c9f\u901a\u5efa\u7acb\u5173\u7cfb\uff0c\u4e0b\u5468\u524d\u5f62\u6210Findings",
+    "status": "draft",
+    "source": [
+      "input/meetings/MDM\u9879\u76ee\u590d\u6742\u5ea6\u4e0e\u89c4\u5212\u8bc4\u4f30_summary.md"
+    ],
+    "file": "okf/actions/ACT-007.md"
+  },
+  {
+    "id": "ACT-008",
+    "type": "action",
+    "title": "Submit RFP Response via ARIBA by 30 June 2026",
+    "status": "pending",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/actions/ACT-008.md"
+  },
+  {
+    "id": "ACT-009",
+    "type": "action",
+    "title": "Develop Capability Document for Proposal",
+    "status": "pending",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/actions/ACT-009.md"
+  },
+  {
+    "id": "ACT-010",
+    "type": "action",
+    "title": "Prepare Solution Comparison Report (Workstream C)",
+    "status": "pending",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/actions/ACT-010.md"
+  },
+  {
+    "id": "ACT-011",
+    "type": "action",
+    "title": "Prepare Fixed Price Proposal and Pricing Sheet (Annex B)",
+    "status": "pending",
+    "source": [
+      "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
+    ],
+    "file": "okf/actions/ACT-011.md"
+  }
+]

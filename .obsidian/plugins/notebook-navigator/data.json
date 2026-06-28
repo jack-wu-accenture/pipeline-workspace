@@ -476,7 +476,12 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/requirements": "title-asc",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/decisions": "modified-asc",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/context": "modified-asc",
+    "opportunities/OPP-20260628-001-novartis-mdm-planning-2-0/okf/actions": "modified-asc"
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
