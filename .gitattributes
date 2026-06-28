@@ -1,9 +1,23 @@
+# Git LFS — track large binary files in opportunity input directories
+# Text files (.md, .txt, .yaml) stay in regular git for diffability
+
+# Documents
 opportunities/*/input/**/*.pdf filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.docx filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.doc filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.ppt filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.xls filter=lfs diff=lfs merge=lfs -text
+# Images
+opportunities/*/input/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.png filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.gif filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.heic filter=lfs diff=lfs merge=lfs -text
+# Audio / video recordings
 opportunities/*/input/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.m4a filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.wav filter=lfs diff=lfs merge=lfs -text
-opportunities/*/input/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-opportunities/*/input/**/*.png filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/**/*.mov filter=lfs diff=lfs merge=lfs -text

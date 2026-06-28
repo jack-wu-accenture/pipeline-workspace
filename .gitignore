@@ -1,8 +1,5 @@
 .DS_Store
 
-# Opportunity raw inputs — not tracked in git (manage separately via cloud storage)
-opportunities/*/input/
-
 # Claude local settings — machine-specific, not portable
 .claude/
 
