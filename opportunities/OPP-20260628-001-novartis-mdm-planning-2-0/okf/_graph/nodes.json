@@ -140,6 +140,58 @@
     "file": "okf/context/CTX-014.md"
   },
   {
+    "id": "CTX-015",
+    "type": "context",
+    "title": "2025 MDM Planning Report \u2014 4 Solution Candidates Evaluated",
+    "status": "active",
+    "source": [
+      "input/references/Novartis+MDM+Planning+Report/Novartis+MDM+Planning+Report.doc"
+    ],
+    "file": "okf/context/CTX-015.md"
+  },
+  {
+    "id": "CTX-016",
+    "type": "context",
+    "title": "To-be MDM Functional Requirements Specification (2025 BRS)",
+    "status": "active",
+    "source": [
+      "input/references/Novartis+MDM+Planning+Report/To-be+MDM+Requirement.doc"
+    ],
+    "file": "okf/context/CTX-016.md"
+  },
+  {
+    "id": "CTX-017",
+    "type": "context",
+    "title": "Architecture Blueprint 2025 \u2014 Reltio-Based (Approved Oct\u2013Nov 2025)",
+    "status": "superseded",
+    "source": [
+      "input/references/Novartis+MDM+Planning+Report/Architecture+Blueprint.doc"
+    ],
+    "file": "okf/context/CTX-017.md"
+  },
+  {
+    "id": "CTX-018",
+    "type": "context",
+    "title": "DCAM Framework \u2014 Novartis Global Data Governance Standard",
+    "status": "active",
+    "source": [
+      "input/references/DCAM Data Management Capability Assesment Definitions v2.2.2 (1).pdf",
+      "input/references/DCAM 2026 Expectations.xlsx"
+    ],
+    "file": "okf/context/CTX-018.md"
+  },
+  {
+    "id": "CTX-019",
+    "type": "context",
+    "title": "MDM \u9009\u578b\u6807\u51c6\u3001\u6570\u636e\u6a21\u578b\u4e0e\u96c6\u6210\u67b6\u6784\uff08\u6765\u81ea NVS MDM Excalidraw\uff09",
+    "status": "active",
+    "source": [
+      "input/references/NVS MDM.excalidraw",
+      "input/references/NVS MDM.png"
+    ],
+    "file": "okf/context/CTX-019.md"
+  },
+  {
     "id": "REQ-001",
     "type": "requirement",
     "title": "\u5fc5\u987b\u5efa\u7acb\u88abGlobal/EDM\u8ba4\u53ef\u7684\u65b9\u6848\u8bc4\u4f30\u6807\u51c6",
@@ -268,6 +320,26 @@
       "input/rfp/Universal RFP Template v1.2-Customer MDM China EBX_Replacement_Planning 2026.docx"
     ],
     "file": "okf/requirements/REQ-013.md"
+  },
+  {
+    "id": "REQ-014",
+    "type": "requirement",
+    "title": "MDM Core Functional Requirements \u2014 DCR, HCP/HCO, Data Lifecycle (from 2025 BRS)",
+    "status": "active",
+    "source": [
+      "input/references/Novartis+MDM+Planning+Report/To-be+MDM+Requirement.doc"
+    ],
+    "file": "okf/requirements/REQ-014.md"
+  },
+  {
+    "id": "REQ-015",
+    "type": "requirement",
+    "title": "\u65b9\u6848\u9009\u578b\u8bc4\u4f30\u6846\u67b6\uff085\u7ef4\u5ea6\u6743\u91cd\u6807\u51c6\uff09",
+    "status": "active",
+    "source": [
+      "input/references/NVS MDM.excalidraw"
+    ],
+    "file": "okf/requirements/REQ-015.md"
   },
   {
     "id": "DEC-001",
