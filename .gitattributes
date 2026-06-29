@@ -1,6 +1,5 @@
 # Git LFS — track large binary files in opportunity input directories
 # Text files (.md, .txt, .yaml) stay in regular git for diffability
-
 # Documents
 opportunities/*/input/**/*.pdf filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.docx filter=lfs diff=lfs merge=lfs -text
@@ -21,3 +20,4 @@ opportunities/*/input/**/*.m4a filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.wav filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
 opportunities/*/input/**/*.mov filter=lfs diff=lfs merge=lfs -text
+opportunities/*/input/** filter=lfs diff=lfs merge=lfs -text
